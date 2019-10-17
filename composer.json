@@ -1,6 +1,6 @@
 {
     "name": "syntac/youtube",
-    "description": "Upload a video to YouTube with Laravel 5.",
+    "description": "Upload a video to YouTube with Laravel 6.",
     "license": "MIT",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/support": "~5.8|^6.0",
+        "illuminate/support": "^5.8",
         "google/apiclient": "^2.2"
     },
     "require-dev": {
