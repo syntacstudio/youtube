@@ -1,6 +1,6 @@
 <?php
 
-namespace Dawson\Youtube;
+namespace Syntac\Youtube;
 
 use Illuminate\Support\ServiceProvider;
 
